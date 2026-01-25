@@ -5,7 +5,6 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="N8N" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png">
   <img align="center" alt="PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-plain.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
